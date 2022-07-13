@@ -34,5 +34,4 @@ public class MathsStepDefinitions {
     public void theTotalShouldBe(int expectedTotal) {
         assertThat(total).isEqualTo(expectedTotal);
     }
-
 }
